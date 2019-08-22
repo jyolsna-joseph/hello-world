@@ -1,0 +1,17 @@
+total 982732
+-rwxr----- 1 jyolsna jyolsna 1006210999 Jul 21 06:38 chotta_bheam.mkv
+-rw-rw-r-- 1 jyolsna jyolsna         49 Aug  8 11:25 fil5.txt
+-rw-r--r-- 1 root    root            13 Aug  7 11:35 file
+-rw-rw-r-- 1 jyolsna jyolsna         51 Aug  8 11:19 file4.txt
+-rw-rw-r-- 1 jyolsna jyolsna          0 Jul 18 11:00 File4.txt
+-rw-rw-r-- 1 jyolsna jyolsna          0 Aug  8 11:32 file5.txt
+-rw-rw-r-- 1 jyolsna jyolsna      44921 Jan 24  2018 HT_2_hallticket.pdf
+drwxrwxr-x 2 jyolsna jyolsna       4096 Aug  6 12:48 jyo
+dr-xrwxr-x 3 jyolsna jyolsna       4096 May  7 15:24 jyolsna1
+-rw-rw-r-- 1 jyolsna jyolsna      10240 Aug  7 10:50 jyolsna1.tar
+drwxrwxr-x 2 jyolsna jyolsna       4096 Aug  6 12:35 jyolsna2
+-rw-rw-r-- 1 jyolsna jyolsna        349 Aug  6 12:38 jyolsna2.tar.gz
+-rwxrwxr-x 1 jyolsna jyolsna         55 May  9 16:05 myscript.sh
+-rw-rw-r-- 1 jyolsna jyolsna        190 Jan 24  2018 psc credentials
+-rw-rw-r-- 1 jyolsna jyolsna         49 Aug  8 11:28 sorted.txt
+-rw-rw-r-- 1 jyolsna jyolsna        751 Jun 13 09:01 webservers
